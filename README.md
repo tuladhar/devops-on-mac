@@ -1,5 +1,7 @@
 # My macOS 🍏 
 
+> Leave a star ⭐️ if you found this helpful, and please [suggest here](https://github.com/tuladhar/my-macos/issues/new) of any apps I should check out! 🙌
+
 ### If I were to get a new Mac, here are the apps and tools I’d install right away.
 
 | Application                                   | Description                                      | Link                                                                 |
@@ -32,4 +34,3 @@
 | ⚫️ Obsidian                                   | Note taking                                      | https://obsidian.md/                                                       |
 | 🔵 Trello                                     | Project/Personal Boards                          | https://trello.com/
 
-🙌 Star if you Let me know if this was helpful, and please suggest any apps I should check out!
