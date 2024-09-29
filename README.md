@@ -1,6 +1,10 @@
 # My macOS 🍏 
 
+> [!TIP]
 > Leave a star ⭐️ if you found this helpful, and please [suggest here](https://github.com/tuladhar/my-macos/issues/new) of any apps I should check out! 🙌
+
+> [!NOTE]
+> Last handcrafted: 30 Sep 2024
 
 ### If I were to get a new Mac, here are the apps and tools I’d install right away.
 
