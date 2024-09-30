@@ -1,4 +1,4 @@
-# 🍎 If I Got a New Mac, Here's What I'd Install First as a DevOps Engineer 🧑‍💻
+# If I Got a New Mac 🍎, Here's What I'd Install First as a DevOps Engineer 🧑‍💻
 
 > [!TIP]
 > Leave a star ⭐️ if you found this helpful, and please [suggest here](https://github.com/tuladhar/my-macos/issues/new) of any apps I should check out! 🙌
