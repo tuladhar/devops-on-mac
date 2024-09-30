@@ -1,5 +1,4 @@
-# My macOS 🍏 
-## If I were to get a new Mac, here are the apps and tools I’d install right away.
+# 🍎 If I Got a New Mac, Here's What I'd Install First as a DevOps Engineer 🧑‍💻
 
 > [!TIP]
 > Leave a star ⭐️ if you found this helpful, and please [suggest here](https://github.com/tuladhar/my-macos/issues/new) of any apps I should check out! 🙌
