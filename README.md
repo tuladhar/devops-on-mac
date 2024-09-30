@@ -1,4 +1,4 @@
-# If I Got a New Mac 🍎, Here's What I'd Install First as a DevOps Engineer 🧑‍💻
+# If I Got a New Mac 🍏, Here's What I'd Install First as a DevOps Engineer 🧑‍💻
 
 > [!TIP]
 > Leave a star ⭐️ if you found this helpful, and please [suggest here](https://github.com/tuladhar/my-macos/issues/new) of any apps I should check out! 🙌
@@ -36,3 +36,5 @@
 | ⚫️ Obsidian                                   | Note taking                                      | https://obsidian.md/                                                       |
 | 🔵 Trello                                     | Project/Personal Boards                          | https://trello.com/
 
+# Blog posts
+- https://ptuladhar3.medium.com/if-i-got-a-new-mac-heres-what-i-d-install-first-as-a-devops-engineer-ae68e65801dc
