@@ -1,4 +1,4 @@
-# If I Got a New Mac 🍏, Here's What I'd Install First as a DevOps Engineer 🧑‍💻
+# 🍏 If I Got a New Mac, Here's What I'd Install First as a DevOps Engineer 🧑‍💻
 
 ## ✅ Accepting Contribution for Hacktoberfest 2024! ✨
 
