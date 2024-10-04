@@ -1,13 +1,14 @@
 # If I Got a New Mac 🍏, Here's What I'd Install First as a DevOps Engineer 🧑‍💻
 
-> [!TIP]
-> Leave a star ⭐️ if you found this helpful, and please [suggest here](https://github.com/tuladhar/my-macos/issues/new) of any apps I should check out! 🙌
+## ✅ Accepting Contribution for Hacktoberfest 2024! ✨
 
 > [!NOTE]
-> Last handcrafted: 30 Sep 2024
+> If you found this helpful, please leave a star ⭐️. Also, feel free to create an issue or submit a PR for any apps you'd like to include! 🙌
+>
+> _Last handcrafted: 4th Oct, 2024_
 
-| Application                                   | Description                                      | Link                                                                 |
-|-----------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------|
+| Application                                   | Description                                      | Link                                                                 | 
+|-----------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------| 
 | 🌏 Arc                                        | Safari/Chrome replacement                        | https://arc.net                                     |
 | 📺 Warp                                       | Built-in Terminal replacement                     | https://www.warp.dev/                                                       |
 | 📺 Alacritty                                  | Ditto                                            | https://alacritty.org/                                                       |
@@ -20,7 +21,7 @@
 | 📂 exa                                        | ls command replacement                           | https://github.com/ogham/exa                                                       |
 | 📦 Homebrew + Nix                             | Package manager                                  | https://brew.sh/, https://github.com/NixOS/nix                                                       |
 | 🌈 kubecolor                                  | kubectl replacement                              | https://kubecolor.github.io/                                                       |
-| 🤖 Cursor                                     | VS Code replacement                              | https://www.cursor.com/                                                       |
+| 🤖 Cursor (📙 [My book](https://ptuladhar.gumroad.com/l/a-beginners-guide-to-using-cursor-the-ai-code-editor))| VS Code replacement                              | https://www.cursor.com/   |
 | 📝 Sublime Text                               | All-time favorite, quick noting or editing      | https://www.sublimetext.com/                                                       |
 | 🐙 GitHub Desktop with CLI                 | Git stuffs                                      | https://github.com/apps/desktop, https://cli.github.com/                                                       |
 | 🔎 Raycast                                    | macOS built-in Spotlight replacement             | https://www.raycast.com/                                                       |
@@ -37,4 +38,5 @@
 | 🔵 Trello                                     | Project/Personal Boards                          | https://trello.com/
 
 # Blog posts
-- https://ptuladhar3.medium.com/if-i-got-a-new-mac-heres-what-i-d-install-first-as-a-devops-engineer-ae68e65801dc
+- [Medium](https://ptuladhar3.medium.com/if-i-got-a-new-mac-heres-what-i-d-install-first-as-a-devops-engineer-ae68e65801dc)
+- [Dev.to](https://dev.to/ptuladhar3/if-i-got-a-new-mac-heres-what-id-install-first-as-a-devops-engineer-3nec)
