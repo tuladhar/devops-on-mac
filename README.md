@@ -3,9 +3,11 @@
 ## ✅ Accepting Contribution for Hacktoberfest 2024! ✨
 
 > [!NOTE]
-> If you found this helpful, please leave a star ⭐️. Also, feel free to create an issue or submit a PR for any apps you'd like to include! 🙌
+> 🙃 Did you found it helpful? If so, please give it a star ⭐️ and feel free to create an issue or submit a PR for any apps you'd like to include! 🙌
 >
-> _Last handcrafted: 4th Oct, 2024_
+> 🔖 Read the blog post: [Dev.to](https://dev.to/ptuladhar3/if-i-got-a-new-mac-heres-what-id-install-first-as-a-devops-engineer-3nec)
+> 
+> 🗓️ _Last handcrafted: 4th Oct, 2024_
 
 | Application                                   | Description                                      | Link                                                                 | 
 |-----------------------------------------------|--------------------------------------------------|----------------------------------------------------------------------| 
@@ -36,7 +38,3 @@
 | 🟠 Multipass                                  | Ditto                                           | https://github.com/canonical/multipass/tree/v1.13.1                                                       |
 | ⚫️ Obsidian                                   | Note taking                                      | https://obsidian.md/                                                       |
 | 🔵 Trello                                     | Project/Personal Boards                          | https://trello.com/
-
-# Blog posts
-- [Medium](https://ptuladhar3.medium.com/if-i-got-a-new-mac-heres-what-i-d-install-first-as-a-devops-engineer-ae68e65801dc)
-- [Dev.to](https://dev.to/ptuladhar3/if-i-got-a-new-mac-heres-what-id-install-first-as-a-devops-engineer-3nec)
